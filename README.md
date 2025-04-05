@@ -32,4 +32,4 @@ Do not hardcode your email password. Use App Passwords instead of your main pass
 Consider using environment variables to store sensitive information.
 Use OAuth2 authentication for better security instead of Less Secure Apps.
 Disclaimer
-This script is for educational purposes only. Sending automated emails must comply with email service provider policies.
+This script is for educational purposes only. Sending automated emails must comply with email service provider policies.This script is for educational purposes only. Sending automated emails must comply with email service provider policies.
